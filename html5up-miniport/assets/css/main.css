@@ -80,8 +80,9 @@ input, select, textarea {
 	font-size: 8rem;
 }
 
-
-
+.resize{ 
+	padding: 16px 0;
+}
 
 
 
